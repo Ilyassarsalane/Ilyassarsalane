@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ilyass
-- 👀 I’m interested in Statistics and Big data
-- 🌱 I’m currently learning Statistics, applied economie and Big data..
-- 💞️ I’m looking to develop my skills in python, C and Statistical's softwars as R, Stata, Spss and Sas. I will be very thankfull if I find someone that I can collaborate with in order to achieve my objectifs.
+- 👀 I’m interested in Statistics and Big Data
+- 🌱 I’m currently learning Statistics, applied economics, and Big Data..
+- 💡 Passionate about data-driven decision making, financial modeling, and machine learning.
 
 <!---
 Ilyassarsalane/Ilyassarsalane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
